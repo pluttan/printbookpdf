@@ -1,0 +1,1 @@
+manimgl '/Users/pluttan/Documents/micropy/micropy-c.py' -o
